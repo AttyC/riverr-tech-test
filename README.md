@@ -7,7 +7,7 @@ To run the project
 #### 
 With HTTPS:  `git clone https://github.com/AttyC/riverr-tech-test.git`
   
-With SSH: `git clonegit@github.com:AttyC/riverr-tech-test.git`)
+With SSH: `git clone git@github.com:AttyC/riverr-tech-test.git`)
 
 #### 
 `npm install`
