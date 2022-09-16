@@ -1,5 +1,16 @@
 # Riverr - Senior Frontend Technical Test - ATTY C
 
+I've writte the review. There's quite a lot there. I've also refactored some of the code.
+  
+### With more time I would:
+* Complete the refactor including extracting the Table Component, and the form functions into a helper file with the structure 
+  /helpers
+    -index.js
+    formHelpers.js
+    * I started this but didn;t have time ti finishe to have commented out the import.
+* Look into the useage of TypeScript
+* write tests
+
 ## Available Scripts
 
 To run the project
