@@ -27,7 +27,7 @@ const App = () => {
   const [title, setTitle] = useState("");
   const [lowStockBool, setLowStockBool] = useState(false);
 
-  /* what is this function for? What information needs to be displayed t the user? 
+  /* what is this function for? What information needs to be displayed t0 the user? 
     consider using map() to iterate through arrays. */
   const lowStock = () => {
     var c = 0;
@@ -37,7 +37,7 @@ const App = () => {
     return c;
   };
 
-/* Here I have refactored some functions that set state outside the render to jkeep render 'pure' */
+/* Here I have refactored some functions that set state outside the render to keep render 'pure' */
   const resetForm = () => {
     setTitle("");
     setLowStockBool(false);
