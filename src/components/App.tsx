@@ -27,7 +27,7 @@ const App = () => {
   const [title, setTitle] = useState("");
   const [lowStockBool, setLowStockBool] = useState(false);
 
-  /* what is this function for? What information needs to be displayed t0 the user? 
+  /* what is this function for? What information needs to be displayed to the user? 
     consider using map() to iterate through arrays. */
   const lowStock = () => {
     var c = 0;
